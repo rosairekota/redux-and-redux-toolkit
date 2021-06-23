@@ -16,6 +16,7 @@ L'objectif est de montrer l'importance d'utiliser redux-toolkit en lieu et de re
 
 In the project directory, you can run:
 
+### `npm install`
 ### `yarn start` or `npm start`
 
 Runs the app in the development mode.<br />
