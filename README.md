@@ -10,11 +10,11 @@ The goal is to show the importance of using redux-toolkit instead of redux
 Dans ce projet, je fais une etude comparative entre redux et redux-toolkit.
 L'idee c'est d'avoir un compteur qui s'incremente et qui se decrement.
 
-L'objectif est de montrer l'importance d'utiliser redux-toolkit en lieu et de redux
+L'objectif est de montrer l'importance d'utiliser redux-toolkit en lieu  et place de redux
 
 ## Available Scripts
 
-In the project directory, you can run:
+Situez-vous dans le répertoire du projet. En suite, exécuter:
 
 ### `npm install`
 ### `yarn start` or `npm start`
