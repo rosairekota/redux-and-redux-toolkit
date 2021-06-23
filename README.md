@@ -7,7 +7,7 @@ L'idee c'est d'avoir un compteur qui s'incremente et qui se decrement.
 L'objectif est de montrer l'importance d'utiliser redux-toolkit en lieu  et place de redux
 
 ## Scripts disponibles
- -`git clone https://github.com/rosairekota/redux-and-redux-toolkit.git`(Facultatif, si vous avez déjà forker dans votre compte github)
+ `git clone https://github.com/rosairekota/redux-and-redux-toolkit.git`(Facultatif, si vous avez déjà forker dans votre compte github)
 Situez-vous dans le répertoire du projet. En suite, exécuter:
 
 ### `npm install`
